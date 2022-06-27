@@ -32,7 +32,7 @@
                 &trans     &trans   &trans      &trans      &trans     &trans   &trans         &trans   &trans     &trans       &trans    &trans     &trans    &trans
                 &trans     &trans   &trans      &trans      &trans     &trans                           &trans     &trans       &trans    &trans     &trans    &trans
                 &trans     &trans   &trans      &trans      &trans     &trans                           &trans     &trans       &trans    &trans     &trans    &trans
-                                    &kp K_SLEEP &trans      &trans     &tog LWR                         &trans     &trans       &trans    &trans
+                                    &kp C_SLEEP &trans      &trans     &tog LWR                         &trans     &trans       &trans    &trans
                                              
                                              
                                              
