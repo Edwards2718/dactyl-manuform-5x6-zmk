@@ -20,7 +20,7 @@
                 &kp CAPS   &kp A    &kp S    &kp D       &kp F      &kp G    &kp GRAVE      &none    &kp H        &kp J         &kp K      &kp L      &kp SEMI  &kp ENTER
                 &kp LSHIFT &kp Z    &kp X    &kp C       &kp V      &kp B                            &kp N        &kp M         &kp COMMA  &kp DOT    &kp FSLH  &kp RSHIFT
                 &kp LCTRL  &kp LWIN &kp LALT &lt RSE SQT &kp LSHIFT &kp BACKSPACE                    &kp ENTER    &kp SPACE     &kp LEFT   &kp DOWN   &kp UP    &kp RIGHT
-                                    &kp DEL  &kp END  &mo LWR   &kp HOME                             &kp C_VOL_UP &kp C_VOL_DN  &kp C_MUTE &kp PSCRN
+                                    &kp DEL  &kp END     &mo LWR    &kp HOME                         &kp C_MUTE   &kp C_VOL_UP  &kp PSCRN  &kp C_VOL_DN
                                                                                                                                                     
             >;
         };
